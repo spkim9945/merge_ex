@@ -13,7 +13,7 @@ int main()
 	cout<<"commit 1\n";
 	cout<<"commit 2(ancestor)\n";
 	Assistant A1;
-	A1.setName("Park");
+	A1.setName("issue 0");
 	A1.setAge(26);
 	A1.setMajor("Math");
 	A1.setAssistantNum("2008-11-12");
