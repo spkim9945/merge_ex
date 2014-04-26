@@ -10,6 +10,7 @@ using namespace std;
 int main()
 {
 	cout<<"commit 0\n";
+	cout<<"commit 1\n";
 	Assistant A1;
 	A1.setName("Park");
 	A1.setAge(26);
